@@ -1,0 +1,46 @@
+# Compiled class files
+*.class
+
+# Maven output directory
+target/
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Logs and databases
+*.log
+*.sql
+*.jdb
+
+# Java IDEs
+.classpath
+.project
+.settings/
+*.lck
+*.ldb
+
+# IntelliJ IDEA specific
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# VS Code specific
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Node modules (if you use Node.js in some parts of the project)
+node_modules/
+
+# Environment files
+.env
+
